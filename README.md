@@ -11,5 +11,10 @@
 
 Solutions to FreeCodeCamp's challenges for my own reference and if anyone else needs help.
 
-## More Info
+## Certifications
+
+[Responsive Web Design](./Responsive-Web-Design/)
+
+### More Info
+
 Visit [freecodecamp.org](https://freecodecamp.org) for more info.
