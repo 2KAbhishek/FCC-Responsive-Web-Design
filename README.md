@@ -17,4 +17,4 @@ Solutions to FreeCodeCamp's challenges for my own reference and if anyone else n
 
 ### More Info
 
-Visit [freecodecamp.org](https://freecodecamp.org) for more info.
+Visit [FreeCodeCamp](https://freecodecamp.org) for more info.
