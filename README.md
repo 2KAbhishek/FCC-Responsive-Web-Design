@@ -11,7 +11,5 @@
 
 Solutions to FreeCodeCamp's challenges for my own reference and if anyone else needs help.
 
-
-
 ## More Info
-[freecodecamp](https://freecodecamp.org)
+Visit [freecodecamp.org](https://freecodecamp.org) for more info.
