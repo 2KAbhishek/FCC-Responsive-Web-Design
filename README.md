@@ -1,5 +1,3 @@
-<div align="center">
-
 # FreeCodeCamp
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/FreeCodeCamp?style=plastic&color=0f0&label=Size)
@@ -12,13 +10,11 @@
 
 Solutions to FreeCodeCamp's challenges for my own reference and if anyone else needs help.
 
-</div>
 
 ## Certifications
 
 [Responsive Web Design](./Responsive-Web-Design/)
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
