@@ -10,11 +10,9 @@
 
 Solutions to FreeCodeCamp's challenges for my own reference and if anyone else needs help.
 
-
 ## Certifications
 
 [Responsive Web Design](./Responsive-Web-Design/)
-
 
 ### More Info
 
