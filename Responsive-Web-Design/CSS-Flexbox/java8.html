@@ -1,0 +1,65 @@
+1. Interfaces  
+    * default : have implementation and we can override  
+    * static : have implementation and we cannot override  
+fully abstract  
+cannot instantiate -> create objects  
+interface  
+variables are public static final  
+methods public abstract(); { }  
+no constructor  
+no main  
+implements  
+Collection I size, frequency, add, addAll void newMethod();  
+| |  
+List I Set I  
+| |  
+ArrayList TreeSet  
+C C2. forEach - Lambda Expression  
+Iterable interface  
+default void forEach(){  
+}  
+Lambda : write functions(logic), no name, anonymous method  
+{ }  
+->  
+{ } action/logic is just one line  
+num -> System.out.println(num/2)  
+for future reference how can we refer or accesss to this method as it don't have name  
+> Functional Interface  
+ts.forEach(s -> {  
+            System.out.println(s.toUpperCase());  
+              
+        });  
+al.forEach(num ->{  
+          
+            if(num%2!=0) {  
+                System.out.println(num);  
+                  
+            }  
+              
+              
+        }); consumer  
+can i use return statements inside lambda which i am writting with forEach : no  
+forEach ( lambda expression as an argument : shouldnt return anything )  
+consume whatever i give  
+@FunctionalInterface  
+interface Consumer{  
+void accept(object);  
+}  
+void cant return  
+int return a;3. Functional Interface Introduction  
+    *Implement using class traditional  
+    *Anonymous inner class object  
+    *Lambda Expression  
+lambda expressions : functional interface  
+forEach lambda : Consumer void object  
+return something : functional interface -> user  
+x,y,x -> return x+y+z  
+----------------------------------  
+default / static  
+override {} / cannot { }  
+Iterable forEach iterating/ action  
+forEach > Lambda action > Consumer void / object  
+num -> Syso  
+@FunctionInterface  
+only one abstract method  
+we can write lambda expression
