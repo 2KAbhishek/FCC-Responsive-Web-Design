@@ -13,6 +13,7 @@ Solutions to FreeCodeCamp's challenges for my own reference and if anyone else n
 ## Certifications
 
 [Responsive Web Design](./Responsive-Web-Design/)
+[JavaScript Algorithms And Data Structures](./JavaScript-Algorithms-And-Data-Structures)
 
 ### More Info
 
