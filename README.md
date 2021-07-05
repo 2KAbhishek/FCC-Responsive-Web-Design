@@ -75,7 +75,7 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://www.freecodecamp.org/certification/2kabhishek/responsive-web-design">View Certificate</a>
+<a href="https://www.freecodecamp.org/certification/2kabhishek/responsive-web-design">View Certificate</a><br>
 
 <a href="https://github.com/2KAbhishek/FCC-Responsive-Web-Design">Source</a> |
 <a href="https://2kabhishek.github.io/FCC-Responsive-Web-Design">Website</a>
