@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>freeCodeCamp Responsive Web Design curriculum walk-through 👣🌐</h2>
+<h3>freeCodeCamp Responsive Web Design curriculum walk-through 👣🌐</h3>
 
 </div>
 
