@@ -49,13 +49,13 @@ cd FCC-Responsive-Web-Design
 
 ## Sections
 
-- [Applied Accessibility](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Applied-Accessibility)
-- [Applied Visual Design](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Applied-Visual-Design)
-- [Basic CSS](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Basic-CSS)
 - [Basic HTML And HTML5](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Basic-HTML-And-HTML5)
+- [Basic CSS](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Basic-CSS)
+- [Applied Visual Design](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Applied-Visual-Design)
+- [Applied Accessibility](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Applied-Accessibility)
+- [Responsive Web Design Principles](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Responsive-Web-Design-Principles)
 - [CSS Flexbox](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/CSS-Flexbox)
 - [CSS Grid](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/CSS-Grid)
-- [Responsive Web Design Principles](https://github.com/2KAbhishek/FCC-Responsive-Web-Design/tree/main/Responsive-Web-Design-Principles)
 
 ## Using FCC-Responsive-Web-Design
 
